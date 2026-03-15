@@ -72,8 +72,8 @@ else:
 # denemeSayisi=0
 # kullanicilar={
 #     "Serkan":"1234",
-#     "Naz":"Prenses",
-#     "Suko":"GAY"
+#     "Naz":"tavsan",
+#     "Suko":"password"
 
 # }
 # nickName=input("Kullanıcı adınızı giriniz")
